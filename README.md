@@ -10,4 +10,4 @@
 ![原图](http://7xsgef.com1.z0.glb.clouddn.com/sssss.gif)
 
 #### 模仿的效果图
-![模仿效果图](http://7xsgef.com1.z0.glb.clouddn.com/sss6.gif)
+![模仿效果图](https://raw.githubusercontent.com/loonggg/CoordinatorLayoutDemo/master/image/cld.gif)
