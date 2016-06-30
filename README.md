@@ -7,7 +7,7 @@
 我们来看看效果对比图：
 
 #### 稀土掘金app原图
-![原图](http://7xsgef.com1.z0.glb.clouddn.com/sssss.gif)
+![原图](https://raw.githubusercontent.com/loonggg/CoordinatorLayoutDemo/master/image/1.gif)
 
 #### 模仿的效果图
 ![模仿效果图](https://raw.githubusercontent.com/loonggg/CoordinatorLayoutDemo/master/image/cld.gif)
