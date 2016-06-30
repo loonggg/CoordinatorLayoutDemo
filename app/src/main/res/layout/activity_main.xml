@@ -1,22 +1,22 @@
-<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:fitsSystemWindows="true"
     tools:context=".MainActivity">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/app_bar_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:fitsSystemWindows="true">
+        >
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/collapsing_toolbar_layout"
             android:layout_width="match_parent"
-            android:layout_height="280dp"
-            android:fitsSystemWindows="true"
+            android:layout_height="270dp"
             app:collapsedTitleTextAppearance="@style/ToolBarTitleText"
             app:contentScrim="#46a8ba"
             app:expandedTitleMarginEnd="48dp"
@@ -52,7 +52,7 @@
                             android:text="涩郎"
                             android:textColor="#ffffff"
                             android:textSize="16sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"/>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -61,16 +61,16 @@
                             android:text="Android开发工程师 @ 非著名程序员"
                             android:textColor="#ffffff"
                             android:textSize="13sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"/>
                     </LinearLayout>
 
                     <ImageView
+                        android:id="@+id/head_iv"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
                         android:layout_alignParentRight="true"
                         android:layout_centerVertical="true"
-                        android:scaleType="centerCrop"
-                        android:src="@mipmap/bg" />
+                        android:scaleType="centerCrop"/>
                 </RelativeLayout>
 
                 <TextView
@@ -82,7 +82,7 @@
                     android:maxLines="2"
                     android:text="关注我（微博@涩郎，微信公众号：非著名程序员），我与你闲扯技术大话，笑谈科技人生。以幽默诙谐的态度，面对乏味无聊的技术，用扯淡的方式，分享技术的内涵。谈的是技术，更是我们的人生。"
                     android:textColor="#ffffff"
-                    android:textSize="12sp" />
+                    android:textSize="12sp"/>
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -104,7 +104,7 @@
                             android:text="分享"
                             android:textColor="#ffffff"
                             android:textSize="12sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"/>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -112,7 +112,7 @@
                             android:text="50篇"
                             android:textColor="#ffffff"
                             android:textSize="12sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"/>
                     </LinearLayout>
 
                     <LinearLayout
@@ -130,7 +130,7 @@
                             android:text="获得收藏"
                             android:textColor="#ffffff"
                             android:textSize="12sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"/>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -138,7 +138,7 @@
                             android:text="3000次"
                             android:textColor="#ffffff"
                             android:textSize="12sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"/>
                     </LinearLayout>
 
                     <LinearLayout
@@ -155,7 +155,7 @@
                             android:text="被阅读"
                             android:textColor="#ffffff"
                             android:textSize="12sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"/>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -163,7 +163,7 @@
                             android:text="60000次"
                             android:textColor="#ffffff"
                             android:textSize="12sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"/>
                     </LinearLayout>
 
                     <TextView
@@ -178,7 +178,7 @@
                         android:paddingTop="3dp"
                         android:text="设置"
                         android:textColor="#ffffff"
-                        android:textSize="12sp" />
+                        android:textSize="12sp"/>
                 </RelativeLayout>
             </LinearLayout>
 
@@ -188,7 +188,7 @@
                 android:layout_height="?attr/actionBarSize"
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-                app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+                app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
 
         </android.support.design.widget.CollapsingToolbarLayout>
 
@@ -208,27 +208,27 @@
             <android.support.design.widget.TabItem
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:icon="@drawable/tab_selector" />
+                android:icon="@drawable/tab_selector"/>
 
             <android.support.design.widget.TabItem
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="分享" />
+                android:text="分享"/>
 
             <android.support.design.widget.TabItem
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="收藏" />
+                android:text="收藏"/>
 
             <android.support.design.widget.TabItem
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="关注" />
+                android:text="关注"/>
 
             <android.support.design.widget.TabItem
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="关注者" />
+                android:text="关注者"/>
 
 
         </android.support.design.widget.TabLayout>
@@ -236,6 +236,7 @@
     </android.support.design.widget.AppBarLayout>
 
     <android.support.v4.widget.NestedScrollView
+        android:id="@+id/nsv"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fillViewport="true"
@@ -246,7 +247,7 @@
             android:id="@+id/main_vp_container"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
 
     </android.support.v4.widget.NestedScrollView>
 </android.support.design.widget.CoordinatorLayout>
