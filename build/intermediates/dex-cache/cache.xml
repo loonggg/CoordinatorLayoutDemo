@@ -6,105 +6,105 @@
         jumboMode="true"
         revision="23.0.3"
         sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\glide-3.7.0_58709e4e54ada4ea00a17c96b2c729e6d61b14ab.jar" />
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\glide-3.7.0_58709e4e54ada4ea00a17c96b2c729e6d61b14ab.jar" />
     </item>
     <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\jp.wasabeef-glide-transformations-2.0.1_62b40be1ca9f3d2bf2928adaf06586dc4929180e.jar" />
+        sha1="e16d408481b56f87b2391d4eb4b61b62bf4e6b24">
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\instant-run_d1730ee901f5e1fd0247d2cd530662433fa557ac.jar" />
     </item>
     <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_7506fb489490ff5444539f0929c8a81698f48e73.jar" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5af28249f4dee24b141e287474528ea5289b7342.jar" />
     </item>
     <item
         jar="C:\as\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_79ce2568cdc4eb33c67e8d6cc3a937a75e375bdd.jar" />
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_79ce2568cdc4eb33c67e8d6cc3a937a75e375bdd.jar" />
     </item>
     <item
         jar="C:\as\build-tools\23.0.3\renderscript\lib\renderscript-v8.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="5b79706a834fa62fc97734d9e799e98b63536ff8">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\renderscript-v8_6c7cf485f697182d987650f8a7866c798a5004c4.jar" />
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\renderscript-v8_6c7cf485f697182d987650f8a7866c798a5004c4.jar" />
     </item>
     <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="5d68acfdbe0f9846602dc911a9b3c98d8ec37048">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\instant-run_d9f4155ace520cdcd01e3d534e451f7685b85967.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_72793836d8bc8af02f420f204a8292654bd5039d.jar" />
     </item>
     <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_2637b47db680fcf7b155ffa35c5eb9120598e71e.jar" />
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_da5ac08039a67f551e1224de4093e2678126aa90.jar" />
     </item>
     <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_3afbe39b9b82daab1915d4b9871b225959a4d299.jar" />
-    </item>
-    <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_41334e7ce064d876855eef1d1d70b8a3c5cb4280.jar" />
-    </item>
-    <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="95b4015c7e93be22b20b559ccbcd6493e1bd1d03">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fb9355bd257bbc728912c87e8f4486a140e105f5.jar" />
-    </item>
-    <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_d1cde32c2d216625021507d3e4a896a5c6d34daa.jar" />
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_8f0eca5761ac517e760008de8d160e2d9ee0f2a3.jar" />
     </item>
     <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.jaeger.statusbaruitl\library\1.1.1\jars\classes.jar"
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_afbd89bc56be3405168b43ba92db92523828a655.jar" />
+    </item>
+    <item
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.jaeger.statusbaruitl\library\1.1.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="54b5ce68ee582b210c8e2cdf107f9b9d4a8cc8c3">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.jaeger.statusbaruitl-library-1.1.1_c5b2ce427e27dbe1974cbb3112313ff547b050d4.jar" />
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.jaeger.statusbaruitl-library-1.1.1_f54a995b997b0b80b56744c99d37440b50ea1ff7.jar" />
+    </item>
+    <item
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_7d66c7ac7e9a87fafc1bc4ea0481b3d37b9bbf74.jar" />
+    </item>
+    <item
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\jp.wasabeef-glide-transformations-2.0.1_89a7402221e72995dea5c4469e114d6918a68d10.jar" />
+    </item>
+    <item
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="90c46e20b85d527a8e4043cd3ff613029a90c410">
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fdf7ac057a440c1482c9c01a6d0189b53612ee7b.jar" />
     </item>
     <item
         jar="C:\Users\loongggdroid\.gradle\caches\modules-2\files-2.1\jp.co.cyberagent.android.gpuimage\gpuimage-library\1.3.0\e2e1ca1fbb73283fbc84a0d0b0e3e982d288c658\gpuimage-library-1.3.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="e2e1ca1fbb73283fbc84a0d0b0e3e982d288c658">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\gpuimage-library-1.3.0_80c71696e3ef4e039e6bd0383a4a81a1b176399d.jar" />
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\gpuimage-library-1.3.0_80c71696e3ef4e039e6bd0383a4a81a1b176399d.jar" />
     </item>
     <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jar="D:\github\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5bf2863eb6cae3fb333cd47eae0c71a67beba0cf.jar" />
-    </item>
-    <item
-        jar="D:\CoordinatorLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="D:\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_d671782ea395dd3b611d2066814f76e6b37c95a7.jar" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\github\CoordinatorLayoutDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_342e68f7bc1bffa1e61e5b991f0f936389bd81ca.jar" />
     </item>
 
 </items>
